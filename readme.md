@@ -51,13 +51,15 @@ python3 manage.py runserver "0.0.0.0:8000"
 
 Login page
 
-![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/72e4974d-f50c-4261-ae3e-759b355b290b)
+![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/ab91f295-cef6-4cab-b83f-499fc1c7413e)
+
 
 
 
 Welcome page
 
-![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/894996ba-bd1d-4e3b-b9a5-2188e10e2283)
+![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/b95139ca-6c4e-4666-b02c-e559b2f6e02c)
+
 
 
 
@@ -67,12 +69,14 @@ Welcome page
 
 Admin Networks Panel (sees all networks allocated)
 
-![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/619f42b3-55c0-45e1-875c-645ede5d1f27)
+![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/84e0df74-200c-4d19-b12c-024595b044a1)
+
 
 
 Admin Flowspec Panel (sees all flowspec rules created)
 
-![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/a1475635-5909-45b5-96f2-b807a8ab530a)
+![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/09d75b78-2240-4564-9f9a-21b0e911b07a)
+
 
 
 
@@ -82,12 +86,14 @@ Admin Flowspec Panel (sees all flowspec rules created)
 
 User Networks page (sees only what networks he's been allocated)
 
-![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/4a874e3a-5b32-4ec4-baec-790de0cab820)
+![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/055f84a9-a9e8-4c5d-ae20-40ebbb7fc60d)
+
 
 
 User Flowspec panel (sees/can create flowspec rules for his allocated networks)
 
-![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/17674455-4801-4992-a751-3c1cb5b1ccfb)
+![image](https://github.com/pirmins/fnm-fsgui/assets/49155818/fd5f59b3-b8f0-4ced-a1be-60499a11c925)
+
 
 
 
